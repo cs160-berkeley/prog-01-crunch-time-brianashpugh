@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Brian/Documents/CalB/FourthYr/CS160/ExerSizer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Brian/Documents/CalB/FourthYr/CS160/ExerSizer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_e21cdef7123bcdb7b59038b6043cd73ef102477e.jar" />
+    </item>
+    <item
+        jar="/Users/Brian/Documents/CalB/FourthYr/CS160/ExerSizer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Brian/Documents/CalB/FourthYr/CS160/ExerSizer/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_253548e91435c167cbeee4be340c70b034629497.jar" />
+    </item>
+    <item
+        jar="/Users/Brian/Documents/CalB/FourthYr/CS160/ExerSizer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Brian/Documents/CalB/FourthYr/CS160/ExerSizer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_94f299dc87ce3ed960b2b4cc125c4521fa481bbd.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Brian/Documents/CalB/FourthYr/CS160/ExerSizer/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_5dbc6014e4d974e365a1ea11e53bc5ee1d742e65.jar" />
+    </item>
+
+</items>
